@@ -77,8 +77,7 @@
 .ticket li:last-child{
     border-bottom: none;
 }
-span{
-    background-color: brown;
+span{    background-color: brown;
     color: antiquewhite;
     margin-left: 20px;
 }
@@ -91,4 +90,23 @@ span{
     text-align: center;
     margin-right: 15px;
     line-height: 24px;
+}
+.newton{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(0, 0, 0);
+}
+.buy{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    background-color: blueviolet;
+    border-radius: 2px;
+}
+.New{
+    background-color: rgb(232, 232, 232);
+    object-fit: cover;
+    
 }
