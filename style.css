@@ -97,6 +97,9 @@ span{    background-color: brown;
     gap: 40px;
     color: rgb(0, 0, 0);
     background-color: rgb(0, 0, 0);
+    height: 400px;
+    overflow: auto;
+    width: 100%;
 }
 .buy{
     text-decoration: none;
@@ -122,5 +125,5 @@ span{    background-color: brown;
 }
 .stwo{
     text-align: center;
-    
+
 }
