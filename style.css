@@ -1,0 +1,19 @@
+.hero{
+    height: 100vh;
+    width: 100%;
+    animation: bgChange 12s infinite;
+    background-position: center;
+    background-size: cover;
+}
+
+@keyframes bgChange{
+    100%{
+        background-image: url(Images/banner-1714905_1280.jpg);
+    }
+    33%{
+        background-image: url("Images/Product+Showcase-1.jpg");
+    }
+    66%{
+        background-image: url("Images/StockSnap_CXFUHE76YB.jpg");
+    }
+}
