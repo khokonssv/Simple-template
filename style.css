@@ -110,3 +110,17 @@ span{    background-color: brown;
     object-fit: cover;
     
 }
+.ctwo{
+    display: flex;
+    justify-content: center;
+    background-color: blueviolet;
+}
+.conta{
+    font-size: 24px;
+    list-style-type: none;
+    
+}
+.stwo{
+    text-align: center;
+    
+}
