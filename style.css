@@ -50,7 +50,7 @@
     padding-top: 10px;
 }
 .tour{
-    color: aliceblue;
+    color: rgb(243, 249, 255);
     text-transform: uppercase;
     text-align: center;
     margin-top: 60px;
@@ -58,4 +58,37 @@
 .emm{
     color: aliceblue;
     text-align: center;
+}
+.ticket{
+    color: rgb(6, 11, 15);
+    list-style-type: none;
+    background-color: rgb(243, 240, 240);
+    padding-top:10px;
+    padding-bottom: 5px
+    ;
+    max-width: 800px;
+    margin: auto;
+    border-radius: 3px;
+}
+.ticket li{
+    border-bottom: 1px solid;
+    font-size: 24px;
+}
+.ticket li:last-child{
+    border-bottom: none;
+}
+span{
+    background-color: brown;
+    color: antiquewhite;
+    margin-left: 20px;
+}
+.q{
+    float: right;
+    background-color: black;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    text-align: center;
+    margin-right: 15px;
+    line-height: 24px;
 }
