@@ -71,8 +71,11 @@
     border-radius: 3px;
 }
 .ticket li{
-    border-bottom: 1px solid;
+    border-bottom: 1px solid ;
     font-size: 24px;
+    border-bottom-color: blueviolet;
+    border-bottom-width: 2px;
+
 }
 .ticket li:last-child{
     border-bottom: none;
@@ -117,6 +120,8 @@ span{    background-color: brown;
     display: flex;
     justify-content: center;
     background-color: blueviolet;
+    padding-bottom: 100px;
+    padding-top:100px;
 }
 .conta{
     font-size: 24px;
@@ -124,6 +129,18 @@ span{    background-color: brown;
     
 }
 .stwo{
-    text-align: center;
+    padding-bottom: 80px;
+    padding-bottom: 80px;
 
+}
+input{
+    padding:10px;
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+.ic{
+    list-style: none;
+    margin-bottom: 15px;
+    color: aliceblue;
 }
