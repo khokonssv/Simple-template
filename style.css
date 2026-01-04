@@ -144,3 +144,7 @@ input{
     margin-bottom: 15px;
     color: aliceblue;
 }
+.map{
+    height: 500px;
+    width: 100%;
+}
